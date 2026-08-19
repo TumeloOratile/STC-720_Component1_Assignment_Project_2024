@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_hwma_case_k",
+  "source_file": "Assignment_Project.sas",
+  "source_blob_sha": "e434a1766a845d606200577e4f7ac042d0878df8",
+  "source_commit": "5e42a5fcc4523e32811f2901af00cfa70d24eaa2",
+  "notes": "First PROC IML block of the repo's Assignment_Project.sas: simulates a 100x20 normal sample (fixed randseed 123), computes per-column sample means, then builds the HWMA (Homogeneously Weighted Moving Average) control-chart statistic and Case-K control limits for each of the 20 time points. Unmodified from the source file (only options obs=100 added via autoexec.sas)."
+}

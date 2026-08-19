@@ -1,0 +1,17 @@
+{
+  "_captured_at": "2026-08-19T15:09:37Z",
+  "_captured_run_id": "r_5705cb452e164ceabad76dc7dff82d06",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC IML",
+    "NOTE: ODS Graphics is ON",
+    "NOTE: PROC SGPLOT data=work._data",
+    "NOTE: ODS Graphics is OFF."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

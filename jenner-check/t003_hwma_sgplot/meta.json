@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_hwma_sgplot",
+  "source_file": "Assignment_Project.sas",
+  "source_blob_sha": "e434a1766a845d606200577e4f7ac042d0878df8",
+  "source_commit": "5e42a5fcc4523e32811f2901af00cfa70d24eaa2",
+  "notes": "The HWMA PROC IML block (as in t001) piped into the repo's PROC SGPLOT control-chart rendering: series/scatter of the HWMA statistic plus dashed UCL/LCL reference lines and a center-line refline, exactly as the author's script draws it. Exercises the PROC IML -> WORK dataset -> PROC SGPLOT + ODS Graphics pipeline as a unit. Unmodified from the source file (only options obs=100 added via autoexec.sas)."
+}
