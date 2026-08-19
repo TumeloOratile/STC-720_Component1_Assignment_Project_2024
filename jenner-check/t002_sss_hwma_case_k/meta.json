@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_sss_hwma_case_k",
+  "source_file": "Assignment_Project.sas",
+  "source_blob_sha": "e434a1766a845d606200577e4f7ac042d0878df8",
+  "source_commit": "5e42a5fcc4523e32811f2901af00cfa70d24eaa2",
+  "notes": "Second PROC IML block of the repo's Assignment_Project.sas: same simulated normal sample and sample-mean setup as t001, but computes the SSS-HWMA (steady-state synthetic HWMA) statistic with asymmetric control-limit multipliers L_1/L_2. Unmodified from the source file (only options obs=100 added via autoexec.sas)."
+}
